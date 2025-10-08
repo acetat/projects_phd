@@ -1,0 +1,6 @@
+#datasets are not included
+**/*.csv
+**/*.txt
+
+# checkpoints are not included
+**/.ipynb_checkpoints/
